@@ -1,0 +1,25 @@
+{ LIPID_PDB:
+DLPC_A.pdb
+DLPC_A.pdb
+}
+{ LIPID_PDB_NAME:
+DGD
+LMG
+}
+{ PIVOT_ELEM_OLD:
+O1G
+O8
+}
+{ PIVOT_ELEM_NEW:
+O21
+O21
+}
+{ PROTEIN_PDB: min_sc_ps2.pdb }
+{ LIPID_TAILS_OLD:
+CGA
+C43
+}
+{ LIPID_TAILS_NEW:
+C112
+C112
+}
